@@ -7,7 +7,7 @@ This repository contains the report and code for the Saliency Prediction Challen
 
 [Saliency Prediction Notebook](https://www.kaggle.com/code/flrotm/saliency)
 
-- ** Abstract ** : We present a novel approach for saliency map prediction
+- **Abstract** : We present a novel approach for saliency map prediction
 by integrating text detection into a Vision Transformer (ViT) frame-
 work. Our method leverages EasyOCR for text region detection, adding
 a fourth channel to the input images to enhance the model’s focus on
